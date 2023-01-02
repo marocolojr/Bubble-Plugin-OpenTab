@@ -1,0 +1,15 @@
+{
+    "category": "plugins",
+    "display": "Open in a new Tab",
+    "fields": {
+        "AAD": {
+            "caption": "url",
+            "doc": "URL of destination",
+            "editor": "DynamicValue",
+            "name": "url",
+            "rank": 0,
+            "value": "text"
+        }
+    },
+    "type": "client_side"
+}
